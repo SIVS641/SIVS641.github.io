@@ -49,7 +49,7 @@ const about = [
     "  - Operate Linux system with common commands.",
     "  - Use Git and GitHub to work on projects.",
     "",
-    'By the way, I am starring in an anime called "SPY x FAMILY". Did you watch it?',
+    'By the way, I am starring in an anime called "SPY x FAMILY". Did you watch it? ',
 ].join("\n");
 
 const projects = [
